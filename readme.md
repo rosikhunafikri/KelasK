@@ -1,13 +1,13 @@
-# Cara Menjalankan
-
-## Nomor 1 ( nomor1.py )
+ -# Cara Menjalankan
+ 
+ ## Nomor 1 ( nomor1.py )
 ```
 python nomor1.py {kalimat}
 ```
 - **kalimat** : _type string_. Berisi kalimat penuh yang ingin diproses. Sifatnya opsional, apabila tidak diberikan, akan memproses 3 kalimat berikut:
-    italem irad irigayaj
-    iadab itsap ulalreb
-    nalub kusutret gnalali
+ - italem irad irigayaj
+ - iadab itsap ulalreb
+ - nalub kusutret gnalali
 
 ### output
 ```
@@ -82,4 +82,3 @@ python nomor5
  |--output2.ts
  |--output3.ts
 ```
-
