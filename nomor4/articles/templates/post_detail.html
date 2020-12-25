@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2>{{article.title}}</h2>
+  <ul>
+        <p class="lead">{{article.body}}</p>
+        <p>Views: {{article.views}}</p>
+  </ul>
+{% endblock %}
